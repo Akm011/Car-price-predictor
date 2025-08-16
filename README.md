@@ -1,7 +1,9 @@
 Create venv:
 
 pip install virtualenv
+
 python -m venv <env name>>  
+
 <env name>\Scripts\activate
 
 Certainly, here is the README.md file again for your car price prediction project.
