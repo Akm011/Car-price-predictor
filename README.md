@@ -6,8 +6,6 @@ python -m venv streamlit-state
 
 streamlit-state\Scripts\activate
 
-Certainly, here is the README.md file again for your car price prediction project.
-
 Used Car Price Prediction App
 This project is a Streamlit web application that predicts the price of a used car based on its features. It utilizes a machine learning pipeline built with scikit-learn to handle data preprocessing and modeling.
 
